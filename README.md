@@ -1,5 +1,5 @@
 # Hackaday_1K
-This was a super simple project that I whipped up for a competition on hackaday.com.  The competition was all about getting as much functionality as possible in as small a space as possible, 1K of code was the limit (1024 bytes).  
+This was a super simple project that I whipped up for a competition on hackaday.com.  ( https://hackaday.io/project/19253-444-byte-captouch-switch ) The competition was all about getting as much functionality as possible in as small a space as possible, 1K of code was the limit (1024 bytes).  
 
 All my project does is look for a capacitance (as far as I could tell it was hardware capacitive touch so I didn't have to use code space here) then outputs a digital high/low signal to a PIC microcontroller (PIC16F18855) to read.  I also had a 5V relay module that could be used for a variety of things (mostly motors would be the main application I see).  This could be polished into a really cheap capacitive touch switch.</br>
 
