@@ -5,4 +5,4 @@ All my project does is look for a capacitance (as far as I could tell it was har
 
 I used inline assembly but I didn't really gain anything because I think the compiler did a very similar thing.  It's pretty challenging to come up with something useful or exciting with a limited code space like that, I'm glad we're not limited to those sizes anymore!</br></br>
 
-![1k_image](https://hackaday.io/project/19253/gallery#92803a7f2141e7b077ec8a4e32351b73)
+![1k_image](https://cdn.hackaday.io/images/1554071483498697613.jpg)
